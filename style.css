@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    background: url(img/funo4.jpg);
+    background-size: 1500px;   
+    font: 16px, Arial;
+}
+
+#principal {
+    /*width: 700px;*/
+    border: 1px;
+}
+
+#menu{
+    background: #E7B692;
+    padding: 18px;
+}
+
+#conteudo{
+    /*background: #FE9595;*/
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #4b566a;
+}
+
+
+h1 {
+    /*color: #FFF8D0 ;*/
+    font-size: 1.2em;
+}
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+a:hover {
+    background: #4b566a;
+    color: #E7B692;
+    border-radius: 5px;
+}
+
+.menu{
+    font-size: 20px;
+    background: #E7B692;
+    padding: 2px;
+    margin: 20px;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+    width: 180px;
+    height: 150px;
+    color: #4b566a
+    
+    
+}
+.rodape{
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    height: 35px;
+    line-height: center;
+    width: 1200px;
+    
+}
+
+#container{
+    width: 1200px;
+    height: 500px;
+    margin: 10px auto;
+    
+}
+
+.foto{
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+p{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.proximo{
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    height: 5px;
+    line-height: center;
+    width: 1200px;
+    
+}
